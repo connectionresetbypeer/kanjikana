@@ -1,0 +1,2 @@
+# kanjikana
+kanjikana project repository
